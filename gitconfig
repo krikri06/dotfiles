@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = k.m.patalan@gmail.com
+	name = Krzysztof Patalan
