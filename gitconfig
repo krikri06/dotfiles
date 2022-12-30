@@ -62,3 +62,5 @@
 [user]
 	email = k.m.patalan@gmail.com
 	name = Krzysztof Patalan
+[http]
+	sslVerify = true
